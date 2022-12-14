@@ -21,7 +21,7 @@ Threat Intel
 - https://cybersecurity.att.com/blogs/labs-research
 - https://www.trellix.com/en-us/about/newsroom/stories.html
 - https://vpnalert.com/resources/
-- https://tinyurl.com/yc863e4j (InfoBlox)
+- https://tinyurl.com/yc863e4j (InfoBlox Blog)
 - https://tinyurl.com/3z8f3c7a (InfoBlox Blog)
 - https://www.recordedfuture.com/
 - https://www.secureworks.com/blog/subject/research-intelligence
