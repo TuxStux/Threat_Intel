@@ -21,8 +21,8 @@ Threat Intel
 - https://cybersecurity.att.com/blogs/labs-research
 - https://www.trellix.com/en-us/about/newsroom/stories.html
 - https://vpnalert.com/resources/
-- https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-threat-advisory/?_gl=1*104qpfb*_ga*OTA5MTMwNTY1LjE2NjAwNjk2MTg.*_ga_D4JXVXQTYG*MTY2MDA2OTYxOC4xLjEuMTY2MDA3MDgzOC4w
-- https://blogs.infoblox.com/category/cyber-threat-intelligence/cyber-campaign-briefs/?_gl=1*104qpfb*_ga*OTA5MTMwNTY1LjE2NjAwNjk2MTg.*_ga_D4JXVXQTYG*MTY2MDA2OTYxOC4xLjEuMTY2MDA3MDgzOC4w
+- https://tinyurl.com/yc863e4j (InfoBlox)
+- https://tinyurl.com/3z8f3c7a (InfoBlox Blog)
 - https://www.recordedfuture.com/
 - https://www.secureworks.com/blog/subject/research-intelligence
 - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence
