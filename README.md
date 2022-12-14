@@ -1,5 +1,5 @@
 # Threat_Intel
-Threat Intel 
+Collection of useful links and intel that I have compiled.
 
 -----
 # OSINT Links
